@@ -1,0 +1,9 @@
+com\moodflix\controller\MoodflixController.class
+com\moodflix\gui\MoodflixGUI$2.class
+com\moodflix\MoodflixApplication.class
+com\moodflix\service\QuoteService.class
+com\moodflix\gui\MoodflixGUI$1.class
+com\moodflix\gui\MoodflixGUI.class
+com\moodflix\model\User.class
+com\moodflix\service\FavoriteService.class
+com\moodflix\model\Quote.class
